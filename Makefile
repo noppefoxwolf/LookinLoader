@@ -1,6 +1,6 @@
 THEOS_DEVICE_IP = 192.168.2.6
 ARCHS  = arm64 arm64e
-TARGET = iphone:latest:9.0
+TARGET = iphone:latest:14.0
 ADDITIONAL_OBJCFLAGS = -fobjc-arc
 include $(THEOS)/makefiles/common.mk
 
